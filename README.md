@@ -11,6 +11,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas
 * Las personalidades múltiples de Freddy
 * Creado por el increible platzi Team
-
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es uh chiste ** Diseñado para el ejemplo . Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso
